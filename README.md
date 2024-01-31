@@ -25,6 +25,8 @@ JSX
 <li>Changing text into a comment shortcut (CTRL + K, C</li>
 <li>Coping a line of code (ALT + SHIT + UP/DOWN)</li>
 
+<h2>What I've enjoyed about this project:</h2>
+<p>I've done some work with HTML and CSS through my Full Stack Web Development course but working with ReactJS and CSS (which we didn't use in the course) was a big game changer. It made creating a website more simpler and exciting due to how fast and easy it is to execute once you know how to put components together. The website on the tutorial was something I thought would be very complicated to create but with the proper use of Tailwind CSS and imported files, it made it seem too easy.</p>
 
 <h2>Contact</h2>
 Neal Fernandez - mrnealfernandez@gmail.com
