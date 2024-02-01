@@ -8,11 +8,10 @@
 <a href="[https://demo.templatemonster.com/demo/328979.html?_gl=1*8zdttf*_ga*OTYxODMxMzI5LjE3MDQyMTM4NzM.*_ga_FTPYEGT5LY*MTcwNTg2MTg1MC4zLjEuMTcwNTg2Mzk1MS42MC4wLjA.](https://www.youtube.com/watch?v=8QW_tgAYM5Y&t=3168s)">Link to demo website.</a>
 
 <h2>Built With</h2>
-HTML
-Vite
-Tailwind CSS
-React
-JSX
+<li>Vite</li>
+<li>React</li>
+<li>Tailwind CSS</li>
+
 
 <h2>What I've learned from this tutorial:</h2>
 <li>Installing and working with TailwindCSS, React + Vite</li>
