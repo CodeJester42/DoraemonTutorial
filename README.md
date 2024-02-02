@@ -5,7 +5,7 @@
 
 <h2>Product Name - Doraemon</h2>
 
-<a>doraemontutorial.netlify.app</a>
+https://doraemontutorial.netlify.app
 
 <h2>Built With</h2>
 <li>Vite</li>
