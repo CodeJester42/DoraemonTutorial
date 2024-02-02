@@ -24,7 +24,7 @@
 <li>Changing text into a comment shortcut (CTRL + K, C</li>
 <li>Coping a line of code (ALT + SHIT + UP/DOWN)</li>
 <li>VSC Extensions - Tailwind CSS Intellisense and Codeium</li>
-<li>data-aos and other features (fade-down, zoom-in, slide-right, etc)</li>
+<li>data-aos features</li>
 <li>Playable pop up for youtube video</li>
 <li>npm run build</li>
 <li>Deploying website on Netlify</li>
