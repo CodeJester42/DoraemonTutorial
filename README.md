@@ -5,7 +5,7 @@
 
 <h2>Product Name - Doraemon</h2>
 
-<a href="[https://demo.templatemonster.com/demo/328979.html?_gl=1*8zdttf*_ga*OTYxODMxMzI5LjE3MDQyMTM4NzM.*_ga_FTPYEGT5LY*MTcwNTg2MTg1MC4zLjEuMTcwNTg2Mzk1MS42MC4wLjA.](https://www.youtube.com/watch?v=8QW_tgAYM5Y&t=3168s)">Link to demo website.</a>
+<a href="doraemontutorial.netlify.app">Link to demo website.</a>
 
 <h2>Built With</h2>
 <li>Vite</li>
@@ -23,7 +23,12 @@
 <li>rafce shortcut</li>
 <li>Changing text into a comment shortcut (CTRL + K, C</li>
 <li>Coping a line of code (ALT + SHIT + UP/DOWN)</li>
-<li>VSC Extensions - Tailwind CSS Intellisense and </li>
+<li>VSC Extensions - Tailwind CSS Intellisense and Codeium</li>
+<li>data-aos and other features (fade-down, zoom-in, slide-right, etc)</li>
+<li>Playable pop up for youtube video</li>
+<li>npm run build</li>
+<li>Deploying website on Netlify</li>
+
 
 <h2>What I've enjoyed about this tutorial:</h2>
 <p>I've done some work with HTML and CSS through my Full Stack Web Development course but working with ReactJS and Tailwind CSS (which we didn't use in the course) was a big game changer. It made creating a website more simpler and exciting due to how fast and easy it is to execute once you know how to put components together. The website on the tutorial was something I thought would be very complicated to create but with the proper use of Tailwind CSS and imported files, it made it seem too easy.</p>
