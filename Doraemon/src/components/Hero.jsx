@@ -34,7 +34,7 @@ const Hero = () => {
                 <img src={HeroImg} alt='' className='w-[180px] sm:w-[240px] lg:w-[340px] 
                 mx-auto relative z-30' />
                 <div className='absolute z-0 bottom-0 left-0 
-                bg-black w-[240px] h-[20px] mx-auto mx-auto blur-2xl'></div>
+                bg-black w-[240px] h-[20px] mx-auto blur-2xl'></div>
             </div>
             {/* Review content section */}
             <div className='sm:pl-16 md:pl-24 flex justify-center sm:justify-end'>
