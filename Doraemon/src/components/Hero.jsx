@@ -2,13 +2,14 @@ import React from 'react'
 import HeroImg from '../assets/dora-hero.png';
 import DoraImg from '../assets/dora.png';
 import HeroBottom from './HeroBottom';
+import {FaStar, FaYoutube} from 'react-icons/fa';
 
 
 const Hero = () => {
   return (
 <>
     <div className='min-h-[700px] center relative'>
-      <div className="container mt-12 sm:mt-0 pb-20 sm:pb-0">
+      <div className="container mt-12 sm:mt-0 pb-20 sm:pb-0 relative z-20">
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 sm:gap-0">
             {/* text content section */}
             <div className='space-y-3 md:space-y-7 flex 
@@ -24,7 +25,7 @@ const Hero = () => {
                     <button className='primary-btn flex items-center justify-center gap-3'>
                         Play on
                         <span>
-                            {/* <FaYoutube className="text-2y" /> */}
+                            <FaYoutube className="text-2y" />
                         </span>
                     </button>
                 </div>
@@ -45,7 +46,7 @@ const Hero = () => {
                     <p>
                         4.7{" "}
                         <span>
-                            {/* <FaStar className="text-primary" /> */}
+                            <FaStar className="text-primary" />
                         </span>
                     </p>
                     <p>
