@@ -24,7 +24,7 @@ const MenuLinks = [
 
 const Navbar = () => {
   return (
-    <div className='py-4'>
+    <div data-aos='fade-down' className='py-4'>
       <div className="container">
         <div className="flex items-center justify-between">
             {/* logo section */}
