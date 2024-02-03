@@ -1,7 +1,7 @@
 <div align="center">
 <h2>About The Project</h2>
   
-<p>This project involves the replication of a responsive website utilizing ReactJS and Tailwind CSS that was recorded and uploaded onto Youtube.</p>
+<p>This project involves the replication of a responsive website utilizing ReactJS and Tailwind CSS that was recorded and uploaded onto Youtube. This type of video helps me learn much easier as I do best when lead by example. Seeing how the person executes the code and the process of building the website was straight forward, the code was also easy to read.</p>
 
 <h2>Product Name - Doraemon</h2>
 
