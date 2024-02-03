@@ -15,7 +15,7 @@ https://doraemontutorial.netlify.app
 
 <h2>What I've learned from this tutorial:</h2>
 <li>Installing and working with TailwindCSS, React + Vite</li>
-<li>Connecting and importing pages/components (navbar, hero)</li>
+<li>Connecting and importing pages/components (navbar, hero, herobottom)</li>
 <li>image hovering "scale"</li>
 <li>Making a repository</li>
 <li>Uploading project to github</li>
