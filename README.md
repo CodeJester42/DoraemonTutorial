@@ -21,8 +21,8 @@ https://doraemontutorial.netlify.app
 <li>Uploading project to github</li>
 <li>Making changes to github repository</li>
 <li>rafce shortcut</li>
-<li>Changing text into a comment shortcut (CTRL + K, C</li>
-<li>Coping a line of code (ALT + SHIT + UP/DOWN)</li>
+<li>Changing text into a comment shortcut (CTRL + K, C)</li>
+<li>Copying a line of code (ALT + SHIFT + UP/DOWN)</li>
 <li>VSC Extensions - Tailwind CSS Intellisense and Codeium</li>
 <li>data-aos features</li>
 <li>Playable pop up for youtube video</li>
