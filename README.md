@@ -25,6 +25,7 @@ https://doraemontutorial.netlify.app
 <li>Copying a line of code (ALT + SHIFT + UP/DOWN)</li>
 <li>VSC Extensions - Tailwind CSS Intellisense and Codeium</li>
 <li>data-aos features</li>
+<li>A bit of onClick function</li>
 <li>Playable pop up for youtube video</li>
 <li>npm run build</li>
 <li>Deploying website on Netlify</li>
